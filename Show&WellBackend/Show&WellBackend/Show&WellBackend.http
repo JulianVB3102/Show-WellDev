@@ -1,0 +1,6 @@
+@Show_WellBackend_HostAddress = http://localhost:5221
+
+GET {{Show_WellBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
